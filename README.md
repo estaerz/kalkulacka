@@ -1,1 +1,2 @@
 # kalkulacka
+Repozitar na zkousku
